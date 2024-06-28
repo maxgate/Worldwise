@@ -1,0 +1,76 @@
+{
+  "cities": [
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🧧",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": "17806751"
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🧧",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": "98443197"
+    },
+    {
+      "id": "5f2f",
+      "cityName": "Letur",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-05-16T11:41:02.296Z",
+      "notes": "",
+      "position": {
+        "lat": "38.25543637637949",
+        "lng": "-2.1093750000000004"
+      }
+    },
+    {
+      "id": "5381",
+      "cityName": "Lagos",
+      "emoji": "🇳🇬",
+      "country": "Nigeria",
+      "date": "2024-05-16T11:49:09.454Z",
+      "notes": "visited",
+      "position": {
+        "lat": "6.4572344987653585",
+        "lng": "3.5705566406250004"
+      }
+    },
+    {
+      "id": "408c",
+      "cityName": "Villamor de los Escuderos",
+      "emoji": "🇪🇸",
+      "country": "Spain",
+      "date": "2024-05-16T12:20:37.613Z",
+      "notes": "",
+      "position": {
+        "lat": "41.29431726315258",
+        "lng": "-5.493164062500001"
+      }
+    },
+    {
+      "id": "6f1c",
+      "cityName": "Jos",
+      "emoji": "🇳🇬",
+      "country": "Nigeria",
+      "date": "2024-05-18T10:12:19.020Z",
+      "notes": "",
+      "position": {
+        "lat": "9.909332674647834",
+        "lng": "8.986816406250002"
+      }
+    }
+  ]
+}
